@@ -9,6 +9,7 @@ $("form").submit(function (e) {
     $.each(files, function (key, value) {
         data.append(key, value);
     });
+    $('#report').html('loading ...... ');
     $.ajax({
         url: '/api/filemetadata/',
         type: 'POST',
