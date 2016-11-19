@@ -1,6 +1,6 @@
 # File Metadata Microservice
 
-    Demo: https://expressjs-imagesearch.herokuapp.com/
+    Demo: https://expressjs-filemeta.herokuapp.com/
 
     Repo: https://github.com/lianyi/expressjs-filemeta
 
